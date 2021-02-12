@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:list_2_us/connectivity/connectivity_bloc.dart';
-import 'package:list_2_us/views/splash_screen/splash_screen.dart';
+import 'package:list_2_us/splash/bloc/bloc.dart';
+import 'package:list_2_us/splash/views/splash_screen.dart';
 
 void main() {
   runApp(MyApp());

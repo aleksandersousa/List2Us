@@ -1,4 +1,4 @@
-import 'connectivity_bloc.dart';
+import 'bloc.dart';
 
 abstract class NetworkEvent {}
 
